@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Distribuidora El Valle",
+    "coordenadas": [10.4806, -66.9036],
+    "productos": [
+      {"id": 101, "nombre": "Papa Única", "precio": 1.20},
+      {"id": 102, "nombre": "Zanahoria Premium", "precio": 0.85}
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Feria de Hortalizas Centro",
+    "coordenadas": [10.4950, -66.8550],
+    "productos": [
+      {"id": 103, "nombre": "Lechuga Criolla", "precio": 0.50},
+      {"id": 104, "nombre": "Tomate Manzano", "precio": 1.40}
+    ]
+  }
+]

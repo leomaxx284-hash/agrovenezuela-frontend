@@ -1,0 +1,13 @@
+.leaflet-container {
+  width: 100%;
+  height: 80vh;
+  border-radius: 12px;
+  /* Eliminamos sombras oscuras y dejamos un diseño limpio */
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff; /* Fondo de la página principal en blanco */
+  padding: 20px;
+}
